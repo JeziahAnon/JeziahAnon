@@ -1,9 +1,110 @@
-# 💫 About Me:
-<br>🤝 I’m looking for any collaborations in web <br>🚀 Currently building a telegram bot for anonymous chatting <br>🌱 High school student <br>💬 Ask me about: <br>    - Web development: I love working with React, Django, and javascript overall. Ask me about creating simple interactive web designs!<br>    - AI/ML: Im interested in AI and using torch for building models. We can talk about AI architectures or building chatbots. <br>    - Mathematics: Math and its possible applications. <br>    - Karate: I train regularly in karate 🥋, so if you’re into martial arts, I’d love to chat!<br>⚡ Fun fact<br>    - I'm 16yo and speak 3 languages 
+# `>_` Hey, I'm Sergei 👾
 
-## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sergei_lo1)   
- ![Discord](https://camo.githubusercontent.com/7c80e7e5644b591e16ef6dd9abdf7bd45c04f25e425cd66760ce1fcecac06262/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333732383944412e7376673f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465) - Username: astral7498
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Developer+%7C+AI%2FML+Enthusiast;Building+Ideas+Into+Reality;" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<p align="center">
+  <code>💻 CODE</code> &nbsp; <code>🧠 LEARN</code> &nbsp; <code>⚡ BUILD</code> &nbsp; <code>🚀 REPEAT</code>
+</p>
+
+---
+
+## 🧬 `$ whoami`
+
+```python
+class Sergei:
+    def __init__(self) -> None:
+        self.roles: str = "Computer Science Student/Developer"
+        self.university: str = "Karlsruhe Institute of Technology (KIT)"
+        self.focus: list[str] = [
+            "Web Development",
+            "Artificial Intelligence & Machine Learning",
+            "Mathematics & Problem Solving"
+        ]
+        self.currently_learning: list[str] = ["Machine Learning", "Web Development", "Chinese", "Microeconomics"]
+        self.hobbies: list[str] = ["Karate", "Coding", "Languages", "Gym"]
+
+    def motto(self) -> str:
+        return "Turning curiosity into code."
+```
+
+🎓 Motivated computer science student taking university-level courses at **Karlsruhe Institute of Technology (KIT)** alongside secondary school.
+
+💻 Passionate about programming, technology, and solving problems. I enjoy building web applications, exploring AI/ML, and working on ideas.
+
+🧠 Currently deepening my knowledge of machine learning while continuing to explore web technologies and mathematical applications.
+
+🌱 Always looking to learn, collaborate and grow as a developer.
+
+---
+
+## ⚡ `$ tech_stack --list`
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite,django,npm" alt="Web development technologies" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="Python and PyTorch" />
+</p>
+
+### Databases & Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,java" alt="MySQL, SQLite, and Java" />
+</p>
+
+### Tools & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,arduino,canva" alt="Git, GitHub, Arduino, and Canva" />
+</p>
+
+---
+
+## 🌍 `$ languages --status`
+
+| Language | Status |
+|---|---|
+| 🇷🇺 Russian | Fluent |
+| 🇩🇪 German | Fluent |
+| 🇺🇸 English | Fluent |
+| 🇫🇷 French | Learning |
+| 🇨🇳 Chinese | Learning |
+
+*Three languages spoken fluently. Two more in progress. Working on it.*
+
+---
+
+## 🥋 `$ interests --list`
+
+- 🌐 Building interactive websites
+- 🤖 Exploring machine learning algorithms
+- 📐 Mathematics and its applications
+- 💵 Microeconomics, simple accounting and financial statements analysis
+- 🥋 Karate, brown belt
+- 🌏 Language learning and discovering new cultures
+
+---
+
+## 🤝 `$ connect --with-me`
+
+I'm open to **web development collaborations, AI/ML projects, and interesting technical discussions**. If you're building something cool, let's connect!
+
+<p align="center">
+  <a href="https://instagram.com/sergei_lo1">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-astral7498-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: astral7498" />
+  </a>
+</p>
+
+<p align="center">
+  <code>while (alive) { learn(); build(); improve(); }</code>
+</p>
+
+<p align="center">
+  <sub>⚡ Curiosity is the engine. Code is the tool. Innovation is the goal.</sub>
+</p>
